@@ -1,4 +1,5 @@
 -- Database Schema
+
 -- Run this script in MySQL to create the database and tables
 
 CREATE DATABASE IF NOT EXISTS tasks_db;
